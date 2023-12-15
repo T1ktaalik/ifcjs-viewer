@@ -1,0 +1,1 @@
+https://docs.thatopen.com/that-open-platform/getting-started
